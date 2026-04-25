@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#container{
+    background-color: blue;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly ;
+}
+
+
+.box{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border: 1px solid yellow;
+  
+
+}
+
+#a{
+    height: 100px;
+    background-color: pink;
+    font-size: 60px;
+}
+
+
+#b{
+    height: 300px;
+    background-color: aqua;
+    font-size: 60px;
+}
+
+#c{
+    
+    height: 150px   ;
+    background-color: maroon;
+    font-size: 60px;
+}
+
+#d{
+    height: 400px;
+    background-color: salmon;
+    font-size: 60px;
+}
+
